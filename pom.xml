@@ -145,6 +145,8 @@
                   <exclude>**/service/** </exclude>
                   <exclude>**/mapper/** </exclude>
                   <exclude>**/security/** </exclude>
+                  <exclude>**/exception/** </exclude>
+                  <exclude>**/messages/** </exclude>
                 </excludes>
               </configuration>
 
